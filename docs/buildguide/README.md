@@ -34,7 +34,7 @@ XIAO ESP32S3 の書き込みボタンを押したままPCとUSB接続します�
 ![pic](/docs/img/DSC_1732.jpg)
 <br><br>
 Chromeで下記サイトを開き書き込みボタンをクリックします。<br><br>
-<a href="https://akizukidenshi.com/catalog/g/gM-18078/" target="_blank">AZ-Nubpad ファームウェア</a><br><br>
+<a href="https://palette-system.github.io/az-nubpad/" target="_blank">AZ-Nubpad ファームウェア</a><br><br>
 Complateと表示されたらUSBを抜きます。
 <br><br>
 
