@@ -5,8 +5,9 @@
 | 名前 | 詳細 | 個数 |
 | --- | --- | --- |
 | XIAO ESP32S3 | <a href="https://akizukidenshi.com/catalog/g/gM-18078/" target="_blank">秋月電子リンク</a> | 1 |
-| 磁気スイッチ | GATERON KS-20、Orange、Whiteどちらも対応<br> <a href="https://shop.yushakobo.jp/products/8165" target="_blank">遊舎工房</a><br><a href="https://gateron.com/products/gateron-ks-20-magnetic-white-switch-set" target="_blank">Gateron</a> | 4 |
+| 磁気スイッチ | GATERON KS-20、Orange、Whiteどちらも対応<br><a href="https://talpkeyboard.net/items/653b569422176f00309b4a42" target="_blank">TALPKEYBOARDリンク</a><br><a href="https://shop.yushakobo.jp/products/8165" target="_blank">遊舎工房リンク</a><br><a href="https://gateron.com/products/gateron-ks-20-magnetic-white-switch-set" target="_blank">Gateronリンク</a> | 4 |
 | キーキャップ | スイッチに対応したキャップ | 4 |
+
 <br><br>
 
 ## ２．入っている物
@@ -20,6 +21,7 @@
 | ミドルプレート | 乳半 3mm厚 | 1 |
 | 黒ネジ | M2 4mm | 10 |
 | スペーサー | M2 5mm | 4 |
+
 <br><br>
 
 ## ３．XIAO ESP32S3 のはんだ付け
