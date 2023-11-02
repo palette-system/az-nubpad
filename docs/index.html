@@ -19,10 +19,10 @@
 $(function(){
     $("#write_firm").click(function() {
         azesp.write_firm([
-        {"address": 0x0000, "data": "./data/azmagicpad.ino.bootloader.bin"},
-        {"address": 0x8000, "data": "./data/azmagicpad.ino.partitions.bin"},
+        {"address": 0x0000, "data": "./data/azmagicpad.ino.bootloader.0.1.19.bin"},
+        {"address": 0x8000, "data": "./data/azmagicpad.ino.partitions.0.1.19.bin"},
         {"address": 0xe000, "data": "./data/boot_app0.bin"},
-        {"address": 0x10000, "data": "./data/azmagicpad.ino.bin"}
+        {"address": 0x10000, "data": "./data/azmagicpad.0.1.19.ino.bin"}
         ], 921600, "write_info");
     });
 
@@ -64,12 +64,10 @@ $(function(){
 <h2>ファームウェア</h2>
 <div class="content_body">
 
-<a id="write_firm" class="link_btn">AZ-Nubpad ファーム 書込み (仮)</a><br>
+<a id="write_firm" class="link_btn">AZ-Nubpad 0.1.19 ファーム 書込み </a><br>
 <div id="write_info"></div>
 <br><br>
-※ 動作テスト用の仮ファームです。<br>
-※ ファーム書き込み後PCと接続しなおして、左側のボタンを押したままNubkeyを押下してグリグリすると中心位置を調節できます。<br>
-※ AZ対応のファームは完成次第こちらのページから書き込みできるようにします。<br>
+※ ファーム書き込み後PCと接続しなおして、上のボタンを押したままNubkeyを押下してグリグリすると中心位置を調節できます。<br>
 
 </div>
 
