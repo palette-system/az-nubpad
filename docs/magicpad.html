@@ -19,10 +19,10 @@
 $(function(){
     $("#write_firm").click(function() {
         azesp.write_firm([
-        {"address": 0x0000, "data": "./data/azmagicpad.ino.bootloader.0.1.19.bin?m"},
-        {"address": 0x8000, "data": "./data/azmagicpad.ino.partitions.0.1.19.bin?m"},
+        {"address": 0x0000, "data": "./data/azmagicpad.ino.bootloader.0.1.19.bin?m2"},
+        {"address": 0x8000, "data": "./data/azmagicpad.ino.partitions.0.1.19.bin?m2"},
         {"address": 0xe000, "data": "./data/boot_app0.bin"},
-        {"address": 0x10000, "data": "./data/azmagicpad.0.1.19.ino.bin?m"}
+        {"address": 0x10000, "data": "./data/azmagicpad.0.1.19.ino.bin?m2"}
         ], 921600, "write_info");
     });
 
