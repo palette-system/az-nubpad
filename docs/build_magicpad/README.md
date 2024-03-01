@@ -4,7 +4,7 @@
 
 | 名前 | 詳細 | 個数 |
 | --- | --- | --- |
-| 磁気スイッチ | GATERON KS-20、Orange、Whiteどちらも対応<br><a href="https://talpkeyboard.net/items/653b569422176f00309b4a42" target="_blank">TALPKEYBOARDリンク</a><br><a href="https://shop.yushakobo.jp/products/8165" target="_blank">遊舎工房リンク</a><br><a href="https://gateron.com/products/gateron-ks-20-magnetic-white-switch-set" target="_blank">Gateronリンク</a> | 14 |
+| 磁気スイッチ | GATERON KS-20、Orange、Whiteどちらも対応<br><a href="https://talpkeyboard.net/items/65bc5a2053ee8d383e4f53de" target="_blank">TALPKEYBOARDリンク</a><br><a href="https://shop.yushakobo.jp/products/8165" target="_blank">遊舎工房リンク</a><br><a href="https://gateron.com/products/gateron-ks-20-magnetic-white-switch-set" target="_blank">Gateronリンク</a> | 14 |
 | キーキャップ | スイッチに対応したキャップ | 14 |
 
 <br><br>
@@ -35,10 +35,10 @@ Complateと表示されたらUSBを抜きます。
 <br><br>
 
 ## ４．ホールセンサーのはんだ付け
-※　はんだ付けオプションの場合は、この工程はスキップして下さい。<br>
 PCB上の四角（□）に収まるようにホールセンサーをはんだ付けして下さい。<br>
 この時に曲がったり位置がズレると精度に影響が出る場合があります。<br>
 ホールセンサーの左下にコンデンサーもはんだ付けして下さい。<br>
+<b>※はんだ付けオプションの場合は、この工程はスキップして下さい。</b><br>
 ![pic](/docs/img/hall.jpg)
 <br><br>
 
@@ -51,14 +51,15 @@ PCB上の四角（□）に収まるようにホールセンサーをはんだ�
 <br><br>
 
 ## ６．ミドルプレートの固定
-プレートの保護シートをはがし、表面に乗せます。
+2mm、3mmの両方のプレートの保護シートをはがし、表面に乗せます。
 ![pic](/docs/img/DSC_2167.jpg)
 ![pic](/docs/img/DSC_2169.jpg)
 ![pic](/docs/img/DSC_2171.jpg)
 <br><br>
 
 ## ７．トッププレートの固定
-表面にトッププレートを乗せ、角をネジで固定します。
+表面にトッププレートを乗せ、角をM3ネジで固定します。<br>
+内側をM2ネジで固定します。<br>
 ![pic](/docs/img/DSC_2172.jpg)
 ![pic](/docs/img/DSC_2174.jpg)
 <br><br>
